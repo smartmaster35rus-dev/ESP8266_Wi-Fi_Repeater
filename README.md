@@ -7,23 +7,23 @@
 
 <p align="center">
 
-[рџЊђ Activator site](https://smartmaster35rus-activator.ru/compatible.php)
+[🌐 Activator site](https://smartmaster35rus-activator.ru/compatible.php)
 
 </p>
 
 ---
 
-## рџ‡·рџ‡є Рћ РїСЂРѕРіСЂР°РјРјРµ
+## 🇷🇺 О программе
 
 **ESP8266 Wi‑Fi Repeater** — прошивка и документация для репитера на базе **ESP8266** (расширение сети, исследовательский проект).
 
-## рџ‡¬рџ‡§ About
+## 🇬🇧 About
 
 ESP8266 Wi‑Fi repeater firmware — network extension research project.
 
 ---
 
-## вњЁ Key features
+## ✨ Key features
 
 | Feature | Description |
 |---------|-------------|
@@ -33,16 +33,16 @@ ESP8266 Wi‑Fi repeater firmware — network extension research project.
 
 ---
 
-## рџ“‹ Requirements
+## 📋 Requirements
 
 - ESP8266 module
 - Arduino IDE or PlatformIO
 
 ---
 
-## вљ–пёЏ Disclaimer
+## ⚖️ Disclaimer
 
-РРЅСЃС‚СЂСѓРјРµРЅС‚ РїСЂРµРґРЅР°Р·РЅР°С‡РµРЅ РґР»СЏ **Р°РІС‚РѕСЂРёР·РѕРІР°РЅРЅРѕРіРѕ СЃРµСЂРІРёСЃР° Рё РёСЃСЃР»РµРґРѕРІР°РЅРёР№** РЅР° СѓСЃС‚СЂРѕР№СЃС‚РІР°С…, РєРѕС‚РѕСЂС‹РјРё РІС‹ РІР»Р°РґРµРµС‚Рµ РёР»Рё РёРјРµРµС‚Рµ РїСЂР°РІРѕ РѕР±СЃР»СѓР¶РёРІР°С‚СЊ.
+Инструмент предназначен для **авторизованного сервиса и исследований** на устройствах, которыми вы владеете или имеете право обслуживать.
 
 For **authorized service and research** on devices you own or may service.
 
@@ -50,6 +50,6 @@ For **authorized service and research** on devices you own or may service.
 
 <p align="center">
 
-**SmartMaster35Rus** В· [smartmaster35rus-activator.ru](https://smartmaster35rus-activator.ru/compatible.php)
+**SmartMaster35Rus** · [smartmaster35rus-activator.ru](https://smartmaster35rus-activator.ru/compatible.php)
 
 </p>
